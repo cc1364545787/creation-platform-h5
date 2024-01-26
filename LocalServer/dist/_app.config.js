@@ -1,0 +1,1 @@
+window.__PRODUCTION__TOMP__CONF__={BASE_API_URL:"http://om-test.zegonetwork.com:8001/api/v1",APP_API_URL:"http://om-test.zegonetwork.com:8002/api/v1",TITLE:"\u8FD0\u8425\u8FD0\u7EF4\u7BA1\u7406\u5E73\u53F0"},Object.freeze(window.__PRODUCTION__TOMP__CONF__),Object.defineProperty(window,"__PRODUCTION__TOMP__CONF__",{configurable:!1,writable:!1});

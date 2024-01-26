@@ -1,0 +1,18 @@
+{
+  "name": "koa2-server",
+  "version": "1.0.0",
+  "description": "前端资源本地预览服务",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "author": "Zijun",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.4.1",
+    "koa": "^2.13.4",
+    "koa-static": "^5.0.0",
+    "koa2-connect-history-api-fallback": "^0.1.3"
+  }
+}

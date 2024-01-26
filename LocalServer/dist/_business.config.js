@@ -1,0 +1,1 @@
+window.__OMP__BUSINESS__CONF__={QUALITY_OPERATION:{AUTO_SELECT_FIRST_APP:!0,AUTO_SELECT_MEMO_APP:!0,REFRESH_FILTER_RESET:!0,SHOW_WATERMARK:!0}},Object.freeze(window.__OMP__BUSINESS__CONF__),Object.defineProperty(window,"__OMP__BUSINESS__CONF__",{configurable:!1,writable:!1});
